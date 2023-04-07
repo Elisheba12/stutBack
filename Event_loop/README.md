@@ -22,13 +22,13 @@ Close: In this phase, the event loop checks if there are no timers, or input/out
 
 
 ## List some of the best practices in server-side code development?
-    * Focus on code quality
+* Focus on code quality
 
-    * Prefer ES6+ and Async/Await
+* Prefer ES6+ and Async/Await
 
-    * Keep Code Small
+* Keep Code Small
 
-    * Handle Errors
+* Handle Errors
 
 
 
