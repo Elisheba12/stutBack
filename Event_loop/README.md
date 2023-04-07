@@ -46,3 +46,4 @@ npm run <script name>
 For example: npm run prettier
 
 ## Initialize a package of your choice, give it a name and install the following npm packages to it: Express, mongoose, joi.
+[package.json](./package.json)
