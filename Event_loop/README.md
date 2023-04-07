@@ -22,6 +22,7 @@ Close: In this phase, the event loop checks if there are no timers, or input/out
 
 
 ## List some of the best practices in server-side code development?
+```
 * Focus on code quality
 
 * Prefer ES6+ and Async/Await
@@ -29,8 +30,7 @@ Close: In this phase, the event loop checks if there are no timers, or input/out
 * Keep Code Small
 
 * Handle Errors
-
-
+```
 
 ## What is NPM ?
 NPM is a tool for managing project dependencies via the command line and it is also a website hosting more than 1 million third-party packages that can be used for projects.
