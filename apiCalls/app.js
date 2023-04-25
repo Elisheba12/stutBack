@@ -7,7 +7,7 @@ const app = express();
 app.use('/', apiRouter)
 
 
-const port = process.env.PORT || 3000;
+const port = Number(process.env.PORT) || 3000;
 app.listen(port, () => {
   console.log(`Your server is live and listening on port: ${port}`);
 });
